@@ -1,2 +1,0 @@
-I am file2
-ready for next commit
